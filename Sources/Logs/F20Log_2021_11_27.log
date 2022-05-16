@@ -1,0 +1,15 @@
+﻿2021-11-27 16:36:47 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | **F20 ADE STARTED**
+2021-11-27 16:36:47 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Target Version: F20
+2021-11-27 16:36:47 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Check Multiple Instance: OK
+2021-11-27 16:36:47 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Program Args
+2021-11-27 16:36:49 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | Version From: Steam
+2021-11-27 16:36:49 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Configs Path: C:\Users\toffe\AppData\Roaming\Microsoft Flight Simulator
+2021-11-27 16:36:49 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Content Path: D:\Microsoft Flight Simulator\Packages
+2021-11-27 16:36:49 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | SDK Path: D:\MSFS SDK\
+2021-11-27 16:36:49 | Info | ScruffyDuck.AirportDesignEditor.MainForm.LogVersions | 1 | ADE v20.19.7780  Tuesday, 20 April 2021
+2021-11-27 16:36:52 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | ProKey Active
+2021-11-27 16:37:44 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | Projects Root Folder: D:\FS Design Tools\ADE 2020 Alpha 19\F20
+2021-11-27 16:37:44 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Configs Path: C:\Users\toffe\AppData\Roaming\Microsoft Flight Simulator
+2021-11-27 16:37:44 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Content Path: D:\Microsoft Flight Simulator\Packages
+2021-11-27 16:37:44 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | SDK Path: D:\MSFS SDK\
+2021-11-27 16:37:55 | Info | ScruffyDuck.AirportDesignEditor.MainForm.OnMainFormFormClosing | 1 | **F20 ADE CLOSING**

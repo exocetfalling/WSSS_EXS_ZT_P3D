@@ -1,0 +1,1393 @@
+
+<!-- Created by SODE Placer (c) Jeffrey Staehli -->
+<SODE>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE" AfcadParkingNumber="200">
+		<!-- StandLocation;1.3465343043208122;103.98665383458136;293.0;32.0-->
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE" AfcadParkingNumber="201">
+		<!-- StandLocation;1.3471736758947372;103.98692473769188;293.0;32.0-->
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE" AfcadParkingNumber="202">
+		<!-- StandLocation;1.3477744907140732;103.98717373609544;293.0;32.0-->
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE" AfcadParkingNumber="203">
+		<!-- StandLocation;1.3483789935708048;103.98742899298668;293.0;32.0-->
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="1">
+		<!-- StandLocation;1.3560128957033157;103.98491218686104;180.00552368164065;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 1">
+			<Placement Lat="1.3556105356" Lon="103.985199656" Alt="0.0#AGL" Hdg="179.9055267334"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 1">
+			<Placement Lat="1.3557313052" Lon="103.9852013527" Alt="0.0#AGL" Hdg="179.9055267334"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="2">
+		<!-- StandLocation;1.3560846447944641;103.98432299494743;150.1000061035156;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 2">
+			<Placement Lat="1.355607386" Lon="103.9846240168" Alt="0.0#AGL" Hdg="150.0"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="20;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 2">
+			<Placement Lat="1.3557436624" Lon="103.984609539" Alt="0.0#AGL" Hdg="150.0"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="20;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="3">
+		<!-- StandLocation;1.3554999232292173;103.98392602801323;127.66822814941408;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 3">
+			<Placement Lat="1.3555811828" Lon="103.9843637004" Alt="0.0#AGL" Hdg="127.5682312012"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 3">
+			<Placement Lat="1.3556747623" Lon="103.9842654164" Alt="0.0#AGL" Hdg="127.5682312012"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="4">
+		<!-- StandLocation;1.3548193126916883;103.9839081466198;84.32081604003906;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 4">
+			<Placement Lat="1.355131617" Lon="103.9842592546" Alt="0.0#AGL" Hdg="84.2208190918"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 4">
+			<Placement Lat="1.3551533136" Lon="103.9840601563" Alt="0.0#AGL" Hdg="84.2208190918"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="5">
+		<!-- StandLocation;1.3543080165982246;103.9841866493225;64.88677978515626;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 5">
+			<Placement Lat="1.354750094" Lon="103.9844179605" Alt="0.0#AGL" Hdg="64.7867828369"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 5">
+			<Placement Lat="1.354699134" Lon="103.9843090913" Alt="0.0#AGL" Hdg="64.7867828369"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="9">
+		<!-- StandLocation;1.3534775376319883;103.98410975933074;113.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 9">
+			<Placement Lat="1.3535849122" Lon="103.9845925498" Alt="0.0#AGL" Hdg="112.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 9">
+			<Placement Lat="1.3536336514" Lon="103.984482008" Alt="0.0#AGL" Hdg="112.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="10">
+		<!-- StandLocation;1.3528643175959587;103.98384690284729;113.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 10">
+			<Placement Lat="1.3529716921" Lon="103.9843296931" Alt="0.0#AGL" Hdg="112.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 10">
+			<Placement Lat="1.3530204313" Lon="103.9842191514" Alt="0.0#AGL" Hdg="112.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="11">
+		<!-- StandLocation;1.3522906601428986;103.98360773921013;113.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 11">
+			<Placement Lat="1.3523980347" Lon="103.9840905294" Alt="0.0#AGL" Hdg="112.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 11">
+			<Placement Lat="1.3524467739" Lon="103.9839799877" Alt="0.0#AGL" Hdg="112.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="12">
+		<!-- StandLocation;1.3516050204634666;103.98331493139266;112.9011764526367;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 12">
+			<Placement Lat="1.3517132273" Lon="103.9837975355" Alt="0.0#AGL" Hdg="112.8011795044"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 12">
+			<Placement Lat="1.3517617758" Lon="103.9836869099" Alt="0.0#AGL" Hdg="112.8011795044"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="13">
+		<!-- StandLocation;1.3510296866297722;103.98307621479033;112.9000015258789;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 13">
+			<Placement Lat="1.3511566456" Lon="103.9834857018" Alt="0.0#AGL" Hdg="112.8000045776"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 13">
+			<Placement Lat="1.3511958207" Lon="103.9834013215" Alt="0.0#AGL" Hdg="112.8000045776"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="14">
+		<!-- StandLocation;1.3507420197129252;103.98249685764313;156.73426818847656;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 14">
+			<Placement Lat="1.3505252951" Lon="103.9829255738" Alt="0.0#AGL" Hdg="156.6342712402"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 14">
+			<Placement Lat="1.3506369097" Lon="103.9828869039" Alt="0.0#AGL" Hdg="156.6342712402"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="15">
+		<!-- StandLocation;1.3504396006464956;103.98194208741188;148.95858764648438;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 15">
+			<Placement Lat="1.3502880797" Lon="103.9823378287" Alt="0.0#AGL" Hdg="148.8585906982"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 15">
+			<Placement Lat="1.3504167881" Lon="103.9822938519" Alt="0.0#AGL" Hdg="148.8585906982"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="16">
+		<!-- StandLocation;1.3500825315713885;103.9814767241478;112.9011764526367;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 16">
+			<Placement Lat="1.3500595433" Lon="103.9819237079" Alt="0.0#AGL" Hdg="112.8011795044"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 16">
+			<Placement Lat="1.3501493245" Lon="103.9818430782" Alt="0.0#AGL" Hdg="112.8"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="30;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="17">
+		<!-- StandLocation;1.349499486386776;103.981454372406;92.90000152587889;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 17">
+			<Placement Lat="1.3497322883" Lon="103.9818312832" Alt="0.0#AGL" Hdg="92.8000045776"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 17">
+			<Placement Lat="1.349757032" Lon="103.9817305017" Alt="0.0#AGL" Hdg="92.8000045776"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="18">
+		<!-- StandLocation;1.3490364700555804;103.98178294301033;52.17705917358399;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 18">
+			<Placement Lat="1.3494802439" Lon="103.9819055897" Alt="0.0#AGL" Hdg="52.0770622253"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 18">
+			<Placement Lat="1.3494168868" Lon="103.9818091882" Alt="0.0#AGL" Hdg="52.0770622253"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="19">
+		<!-- StandLocation;1.348847709596157;103.98233100771904;0.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 19">
+			<Placement Lat="1.3493093709" Lon="103.9821198018" Alt="0.0#AGL" Hdg="27.5"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 19">
+			<Placement Lat="1.3492281537" Lon="103.9820955091" Alt="0.0#AGL" Hdg="37.4"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="20">
+		<!-- StandLocation;1.3489539921283722;103.98292377591135;339.0198974609375;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 20">
+			<Placement Lat="1.3492379855" Lon="103.9825674787" Alt="0.0#AGL" Hdg="338.9199005127"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 20">
+			<Placement Lat="1.349124619" Lon="103.9825866614" Alt="0.0#AGL" Hdg="338.9199005127"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_A" AfcadParkingNumber="21">
+		<!-- StandLocation;1.349182315170765;103.98347094655037;337.28692626953125;32.0-->
+		<SimObject Name="Jetway 1 GATE_A 21">
+			<Placement Lat="1.3493581263" Lon="103.9831103369" Alt="0.0#AGL" Hdg="337.1869293213"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_A 21">
+			<Placement Lat="1.349247946" Lon="103.983146053" Alt="0.0#AGL" Hdg="337.1869293213"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_B" AfcadParkingNumber="1">
+		<!-- StandLocation;1.357741579413414;103.98570477962492;40.099998474121094;32.0-->
+		<SimObject Name="Jetway 1 GATE_B 1">
+			<Placement Lat="1.3581875014" Lon="103.9857746217" Alt="0.0#AGL" Hdg="40.0000015259"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_B 1">
+			<Placement Lat="1.3580750709" Lon="103.9856422733" Alt="0.0#AGL" Hdg="40.0000015259"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_B" AfcadParkingNumber="2">
+		<!-- StandLocation;1.3580332696437836;103.98523405194283;68.5468521118164;32.0-->
+		<SimObject Name="Jetway 1 GATE_B 2">
+			<Placement Lat="1.3583201769" Lon="103.9856066775" Alt="0.0#AGL" Hdg="68.4"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="40;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_B 2">
+			<Placement Lat="1.3582972291" Lon="103.9855034572" Alt="0.0#AGL" Hdg="68.4"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="30;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_B" AfcadParkingNumber="3">
+		<!-- StandLocation;1.358560994267464;103.98528099060059;112.83641815185547;32.0-->
+		<SimObject Name="Jetway 1 GATE_B 3">
+			<Placement Lat="1.3586181528" Lon="103.9856971202" Alt="0.0#AGL" Hdg="112.7364212036"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_B 3">
+			<Placement Lat="1.3586764037" Lon="103.9856110147" Alt="0.0#AGL" Hdg="112.7364212036"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_B" AfcadParkingNumber="4">
+		<!-- StandLocation;1.3590132817626;103.9856117963791;136.21902465820312;32.0-->
+		<SimObject Name="Jetway 1 GATE_B 4">
+			<Placement Lat="1.3588430551" Lon="103.985962664" Alt="0.0#AGL" Hdg="136.1"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="20;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_B 4">
+			<Placement Lat="1.3589289584" Lon="103.9859368192" Alt="0.0#AGL" Hdg="136.1"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="20;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_B" AfcadParkingNumber="5">
+		<!-- StandLocation;1.3592617213726044;103.98613303899766;160.4311828613281;32.0-->
+		<SimObject Name="Jetway 1 GATE_B 5">
+			<Placement Lat="1.3589445027" Lon="103.9865043301" Alt="0.0#AGL" Hdg="160.3311859131"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_B 5">
+			<Placement Lat="1.3590760589" Lon="103.9864752861" Alt="0.0#AGL" Hdg="160.3311859131"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_B" AfcadParkingNumber="6">
+		<!-- StandLocation;1.3596181198954582;103.98670077323914;135.8000030517578;32.0-->
+		<SimObject Name="Jetway 1 GATE_B 6">
+			<Placement Lat="1.3597610104" Lon="103.9871997497" Alt="0.0#AGL" Hdg="135.7000061035"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_B 6">
+			<Placement Lat="1.3598020861" Lon="103.9870921623" Alt="0.0#AGL" Hdg="135.7000061035"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_B" AfcadParkingNumber="7">
+		<!-- StandLocation;1.3602940365672112;103.98697480559349;112.69999694824219;32.0-->
+		<SimObject Name="Jetway 1 GATE_B 7">
+			<Placement Lat="1.3604039372" Lon="103.9874570298" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_B 7">
+			<Placement Lat="1.3604422694" Lon="103.9873781804" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_B" AfcadParkingNumber="8">
+		<!-- StandLocation;1.3609779998660088;103.98726224899292;112.69999694824219;32.0-->
+		<SimObject Name="Jetway 1 GATE_B 8">
+			<Placement Lat="1.3610879004" Lon="103.9877444732" Alt="0.0#AGL" Hdg="112.6"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_B 8">
+			<Placement Lat="1.3611360597" Lon="103.9876336754" Alt="0.0#AGL" Hdg="112.6"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_B" AfcadParkingNumber="9">
+		<!-- StandLocation;1.3616368174552917;103.98753806948662;112.69999694824219;32.0-->
+		<SimObject Name="Jetway 1 GATE_B 9">
+			<Placement Lat="1.3617467181" Lon="103.988020294" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_B 9">
+			<Placement Lat="1.3617948776" Lon="103.9879094966" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_B" AfcadParkingNumber="10">
+		<!-- StandLocation;1.3623633608222008;103.98784205317496;112.69999694824219;32.0-->
+		<SimObject Name="Jetway 1 GATE_B 10">
+			<Placement Lat="1.3624732614" Lon="103.9883242778" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_B 10">
+			<Placement Lat="1.362521421" Lon="103.9882134804" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="1">
+		<!-- StandLocation;1.3630369305610657;103.98812815546988;112.69999694824219;32.0-->
+		<SimObject Name="Jetway 1 GATE_C 1">
+			<Placement Lat="1.3631468312" Lon="103.9886103802" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 1">
+			<Placement Lat="1.3631949907" Lon="103.9884995828" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="11">
+		<!-- StandLocation;1.363023854792118;103.98954838514328;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_C 11">
+			<Placement Lat="1.3629164798" Lon="103.9890655914" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 11">
+			<Placement Lat="1.362867741" Lon="103.989176135" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="13">
+		<!-- StandLocation;1.3635421916842458;103.98976519703866;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_C 13">
+			<Placement Lat="1.3634348167" Lon="103.9892824032" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 13">
+			<Placement Lat="1.3633860779" Lon="103.9893929468" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="15">
+		<!-- StandLocation;1.3640866801142693;103.98999497294425;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_C 15">
+			<Placement Lat="1.3639793051" Lon="103.989512179" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 15">
+			<Placement Lat="1.3639305663" Lon="103.9896227227" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="16">
+		<!-- StandLocation;1.364762932062149;103.99025693535805;283.70001220703125;32.0-->
+		<SimObject Name="Jetway 1 GATE_C 16">
+			<Placement Lat="1.3645789693" Lon="103.9897978443" Alt="0.0#AGL" Hdg="283.8000091553"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 16">
+			<Placement Lat="1.3645487303" Lon="103.9899148136" Alt="0.0#AGL" Hdg="283.8000091553"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="17">
+		<!-- StandLocation;1.3654321432113647;103.9902538061142;262.7176513671875;27.0-->
+		<SimObject Name="Jetway 1 GATE_C 17">
+			<Placement Lat="1.365096034" Lon="103.9898910491" Alt="0.0#AGL" Hdg="262.8176483154"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 17">
+			<Placement Lat="1.3651096727" Lon="103.9900110934" Alt="0.0#AGL" Hdg="262.8176483154"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="18">
+		<!-- StandLocation;1.365959867835045;103.99020150303839;262.8748779296875;27.0-->
+		<SimObject Name="Jetway 1 GATE_C 18">
+			<Placement Lat="1.365624755" Lon="103.9898378247" Alt="0.0#AGL" Hdg="262.9748748779"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 18">
+			<Placement Lat="1.3656380644" Lon="103.989957906" Alt="0.0#AGL" Hdg="262.9748748779"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="19">
+		<!-- StandLocation;1.3664758577942848;103.99013176560402;282.69998168945307;27.0-->
+		<SimObject Name="Jetway 1 GATE_C 19">
+			<Placement Lat="1.3662839129" Lon="103.9896759558" Alt="0.0#AGL" Hdg="282.7999786377"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 19">
+			<Placement Lat="1.3662557194" Lon="103.9897934353" Alt="0.0#AGL" Hdg="282.7999786377"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="20">
+		<!-- StandLocation;1.3636820018291473;103.98839816451073;112.69999694824219;32.0-->
+		<SimObject Name="Jetway 1 GATE_C 20">
+			<Placement Lat="1.3637919024" Lon="103.9888803894" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 20">
+			<Placement Lat="1.363840062" Lon="103.988769592" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="22">
+		<!-- StandLocation;1.3642814755439758;103.9886511862278;112.69999694824219;32.0-->
+		<SimObject Name="Jetway 1 GATE_C 22">
+			<Placement Lat="1.3643913761" Lon="103.9891334113" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 22">
+			<Placement Lat="1.3644395357" Lon="103.9890226138" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="23">
+		<!-- StandLocation;1.3648993894457815;103.9889095723629;112.69999694824219;32.0-->
+		<SimObject Name="Jetway 1 GATE_C 23">
+			<Placement Lat="1.36500929" Lon="103.9893917975" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 23">
+			<Placement Lat="1.3650574496" Lon="103.989281" Alt="0.0#AGL" Hdg="112.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="24">
+		<!-- StandLocation;1.365639679133892;103.98907139897348;82.69999694824222;32.0-->
+		<SimObject Name="Jetway 1 GATE_C 24">
+			<Placement Lat="1.3659759" Lon="103.9894340524" Alt="0.0#AGL" Hdg="82.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 24">
+			<Placement Lat="1.3659622244" Lon="103.9893140123" Alt="0.0#AGL" Hdg="82.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="25">
+		<!-- StandLocation;1.3662233948707583;103.989018201828;82.94823455810547;32.0-->
+		<SimObject Name="Jetway 1 GATE_C 25">
+			<Placement Lat="1.3665580418" Lon="103.989382309" Alt="0.0#AGL" Hdg="83.0482315063"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 25">
+			<Placement Lat="1.3665448863" Lon="103.9892622108" Alt="0.0#AGL" Hdg="83.0482315063"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_C" AfcadParkingNumber="26">
+		<!-- StandLocation;1.3668805360794067;103.98898512125015;112.65049743652344;32.0-->
+		<SimObject Name="Jetway 1 GATE_C 26">
+			<Placement Lat="1.3669908531" Lon="103.9894672516" Alt="0.0#AGL" Hdg="112.7504943848"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_C 26">
+			<Placement Lat="1.367038917" Lon="103.9893564125" Alt="0.0#AGL" Hdg="112.7504943848"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="30">
+		<!-- StandLocation;1.3620642945170403;103.9917728304863;112.99845886230469;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 30">
+			<Placement Lat="1.3621716824" Lon="103.9922556212" Alt="0.0#AGL" Hdg="113.0984558105"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 30">
+			<Placement Lat="1.3622204183" Lon="103.9921450762" Alt="0.0#AGL" Hdg="113.0984558105"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="32">
+		<!-- StandLocation;1.3625829666852949;103.99198964238168;113.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 32">
+			<Placement Lat="1.3626903416" Lon="103.9924724361" Alt="0.0#AGL" Hdg="113.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 32">
+			<Placement Lat="1.3627390804" Lon="103.9923618924" Alt="0.0#AGL" Hdg="113.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="34">
+		<!-- StandLocation;1.3631542772054672;103.9922297000885;113.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 34">
+			<Placement Lat="1.3632616521" Lon="103.9927124939" Alt="0.0#AGL" Hdg="113.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 34">
+			<Placement Lat="1.3633103909" Lon="103.9926019502" Alt="0.0#AGL" Hdg="113.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="35">
+		<!-- StandLocation;1.3636286929249763;103.99250105023384;138.36268615722653;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 35">
+			<Placement Lat="1.3635189738" Lon="103.9929833165" Alt="0.0#AGL" Hdg="138.4626831055"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 35">
+			<Placement Lat="1.3636103525" Lon="103.9929043107" Alt="0.0#AGL" Hdg="138.4626831055"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="36">
+		<!-- StandLocation;1.3641637936234474;103.99282559752466;139.6999969482422;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 36">
+			<Placement Lat="1.3640428523" Lon="103.9933051711" Alt="0.0#AGL" Hdg="139.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 36">
+			<Placement Lat="1.3641360495" Lon="103.99322832" Alt="0.0#AGL" Hdg="139.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="37">
+		<!-- StandLocation;1.3645245507359502;103.99334371089935;139.6999969482422;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 37">
+			<Placement Lat="1.3644036094" Lon="103.9938232846" Alt="0.0#AGL" Hdg="139.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 37">
+			<Placement Lat="1.3644968066" Lon="103.9937464335" Alt="0.0#AGL" Hdg="139.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="38">
+		<!-- StandLocation;1.364911124110222;103.99382516741751;139.6999969482422;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 38">
+			<Placement Lat="1.3647901827" Lon="103.9943047412" Alt="0.0#AGL" Hdg="139.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 38">
+			<Placement Lat="1.3648833799" Lon="103.9942278901" Alt="0.0#AGL" Hdg="139.7999938965"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="40">
+		<!-- StandLocation;1.3604455813765524;103.99250596761703;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 40">
+			<Placement Lat="1.3603382064" Lon="103.9920231744" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 40">
+			<Placement Lat="1.3602894676" Lon="103.9921337179" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="41">
+		<!-- StandLocation;1.3610628247261047;103.99276256561281;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 41">
+			<Placement Lat="1.3609554498" Lon="103.9922797722" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 41">
+			<Placement Lat="1.3609067109" Lon="103.9923903158" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="42">
+		<!-- StandLocation;1.3617578521370888;103.99305626749992;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 42">
+			<Placement Lat="1.3616504772" Lon="103.992573474" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 42">
+			<Placement Lat="1.3616017383" Lon="103.9926840176" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="44">
+		<!-- StandLocation;1.3623395562171936;103.99329900741577;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 44">
+			<Placement Lat="1.3622321812" Lon="103.9928162138" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 44">
+			<Placement Lat="1.3621834424" Lon="103.9929267574" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="46">
+		<!-- StandLocation;1.3629668578505516;103.99354979395866;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 46">
+			<Placement Lat="1.3628505928" Lon="103.9930477329" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 46">
+			<Placement Lat="1.3628150827" Lon="103.9931167854" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="47">
+		<!-- StandLocation;1.3634815067052841;103.99395793676374;319.7000122070312;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 47">
+			<Placement Lat="1.3636024481" Lon="103.9934783633" Alt="0.0#AGL" Hdg="319.8000091553"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 47">
+			<Placement Lat="1.3635092509" Lon="103.9935552144" Alt="0.0#AGL" Hdg="319.8000091553"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="48">
+		<!-- StandLocation;1.363871097564697;103.9944376051426;319.7000122070312;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 48">
+			<Placement Lat="1.363992039" Lon="103.9939580316" Alt="0.0#AGL" Hdg="319.8000091553"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 48">
+			<Placement Lat="1.3638988418" Lon="103.9940348827" Alt="0.0#AGL" Hdg="319.8000091553"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_D" AfcadParkingNumber="49">
+		<!-- StandLocation;1.3643830642104149;103.99494722485542;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_D 49">
+			<Placement Lat="1.3642756892" Lon="103.9944644308" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_D 49">
+			<Placement Lat="1.3642269504" Lon="103.9945749745" Alt="0.0#AGL" Hdg="293.0999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="1">
+		<!-- StandLocation;1.355685330927372;103.99012282490732;21.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 1">
+			<Placement Lat="1.3559998744" Lon="103.9901386185" Alt="0.0#AGL" Hdg="20.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 1">
+			<Placement Lat="1.3558660145" Lon="103.9900913398" Alt="0.0#AGL" Hdg="20.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="2">
+		<!-- StandLocation;1.3554707542061804;103.99062842130661;22.80044174194336;32.0-->
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="3">
+		<!-- StandLocation;1.3552870228886604;103.9911112189293;22.650207519531254;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 3">
+			<Placement Lat="1.3555680386" Lon="103.9911328743" Alt="0.0#AGL" Hdg="22.5502105713"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 3">
+			<Placement Lat="1.3554463381" Lon="103.9910857603" Alt="0.0#AGL" Hdg="22.5502105713"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="4">
+		<!-- StandLocation;1.3551693409681322;103.99181127548219;345.5;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 4">
+			<Placement Lat="1.3554597064" Lon="103.9914729078" Alt="0.0#AGL" Hdg="345.4000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 4">
+			<Placement Lat="1.3553436294" Lon="103.9914889667" Alt="0.0#AGL" Hdg="345.4000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="5">
+		<!-- StandLocation;1.355433873832226;103.99233743548393;346.1000061035156;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 5">
+			<Placement Lat="1.3555237051" Lon="103.9919021943" Alt="0.0#AGL" Hdg="346.0000091553"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 5">
+			<Placement Lat="1.3554384618" Lon="103.9919372426" Alt="0.0#AGL" Hdg="346.0000091553"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="6">
+		<!-- StandLocation;1.355714499950409;103.99287387728691;350.00000000000006;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 6">
+			<Placement Lat="1.3558128293" Lon="103.9924116495" Alt="0.0#AGL" Hdg="349.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 6">
+			<Placement Lat="1.3557107576" Lon="103.992448128" Alt="0.0#AGL" Hdg="349.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="7">
+		<!-- StandLocation;1.3560139015316963;103.99336650967597;332.8999938964843;19.5-->
+		<SimObject Name="Jetway 1 GATE_E 7">
+			<Placement Lat="1.3561350727" Lon="103.9930317583" Alt="0.0#AGL" Hdg="332.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 7">
+			<Placement Lat="1.3560345926" Lon="103.993065009" Alt="0.0#AGL" Hdg="332.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="8">
+		<!-- StandLocation;1.3574341312050817;103.99385422468185;188.0515899658203;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 8">
+			<Placement Lat="1.3569955052" Lon="103.994082531" Alt="0.0#AGL" Hdg="187.9515930176"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 8">
+			<Placement Lat="1.3571148498" Lon="103.994101119" Alt="0.0#AGL" Hdg="187.9515930176"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="10">
+		<!-- StandLocation;1.3567256927490232;103.99203523993492;152.89999389648438;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 10">
+			<Placement Lat="1.3564984668" Lon="103.9924745165" Alt="0.0#AGL" Hdg="152.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 10">
+			<Placement Lat="1.3566067457" Lon="103.9924209837" Alt="0.0#AGL" Hdg="152.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="11">
+		<!-- StandLocation;1.3570110127329826;103.99263337254526;152.89999389648438;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 11">
+			<Placement Lat="1.3567837868" Lon="103.9930726491" Alt="0.0#AGL" Hdg="152.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 11">
+			<Placement Lat="1.3568920656" Lon="103.9930191164" Alt="0.0#AGL" Hdg="152.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="12">
+		<!-- StandLocation;1.357262134552002;103.99322435259818;152.89999389648438;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 12">
+			<Placement Lat="1.3570349086" Lon="103.9936636292" Alt="0.0#AGL" Hdg="152.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 12">
+			<Placement Lat="1.3571431875" Lon="103.9936100965" Alt="0.0#AGL" Hdg="152.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="20">
+		<!-- StandLocation;1.3565188273787498;103.99085327982901;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 20">
+			<Placement Lat="1.3564114524" Lon="103.9903704874" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 20">
+			<Placement Lat="1.3563627136" Lon="103.9904810307" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="22">
+		<!-- StandLocation;1.3572906330227852;103.99117693305016;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 22">
+			<Placement Lat="1.3571832581" Lon="103.9906941404" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 22">
+			<Placement Lat="1.3571345192" Lon="103.9908046838" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="24">
+		<!-- StandLocation;1.3579561561346054;103.9914558827877;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 24">
+			<Placement Lat="1.3578487812" Lon="103.99097309" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 24">
+			<Placement Lat="1.3578000424" Lon="103.9910836335" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="26">
+		<!-- StandLocation;1.358559988439083;103.99171158671379;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 26">
+			<Placement Lat="1.3584526135" Lon="103.9912287938" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 26">
+			<Placement Lat="1.3584038747" Lon="103.9913393373" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="27">
+		<!-- StandLocation;1.3591996952891348;103.99198070168495;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 27">
+			<Placement Lat="1.3590923203" Lon="103.9914979087" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 27">
+			<Placement Lat="1.3590435815" Lon="103.9916084522" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_E" AfcadParkingNumber="28">
+		<!-- StandLocation;1.3598732650279997;103.99226412177084;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_E 28">
+			<Placement Lat="1.3597658901" Lon="103.9917813286" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_E 28">
+			<Placement Lat="1.3597171512" Lon="103.9918918721" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="30">
+		<!-- StandLocation;1.3541447371244428;103.98951172828674;202.89999389648438;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 30">
+			<Placement Lat="1.3537681436" Lon="103.98983898" Alt="0.0#AGL" Hdg="202.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 30">
+			<Placement Lat="1.3538734971" Lon="103.9898851749" Alt="0.0#AGL" Hdg="202.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="31">
+		<!-- StandLocation;1.353885903954506;103.99001598358153;202.89999389648438;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 31">
+			<Placement Lat="1.3535193712" Lon="103.9902934801" Alt="0.0#AGL" Hdg="202.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 31">
+			<Placement Lat="1.3536707009" Lon="103.9903592783" Alt="0.0#AGL" Hdg="202.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="32">
+		<!-- StandLocation;1.3536696508526802;103.99048492312431;202.89999389648438;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 32">
+			<Placement Lat="1.3533535229" Lon="103.9907498827" Alt="0.0#AGL" Hdg="202.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 32">
+			<Placement Lat="1.3534293035" Lon="103.9908584188" Alt="0.0#AGL" Hdg="202.7999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="33">
+		<!-- StandLocation;1.3532153517007828;103.99102851748466;238.39999389648435;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 33">
+			<Placement Lat="1.3528607328" Lon="103.9908944362" Alt="0.0#AGL" Hdg="238.2999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 33">
+			<Placement Lat="1.3528817469" Lon="103.9909810132" Alt="0.0#AGL" Hdg="238.2999969482"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="34">
+		<!-- StandLocation;1.3526024669408798;103.99112552404404;234.19999694824224;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 34">
+			<Placement Lat="1.3522553082" Lon="103.9910825729" Alt="0.0#AGL" Hdg="234.1"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 34">
+			<Placement Lat="1.3522906201" Lon="103.9911839648" Alt="0.0#AGL" Hdg="234.1"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="35">
+		<!-- StandLocation;1.351974830031395;103.99132043123247;241.67501831054688;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 35">
+			<Placement Lat="1.3516401002" Lon="103.9912433451" Alt="0.0#AGL" Hdg="241.5750213623"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 35">
+			<Placement Lat="1.3516668047" Lon="103.9913480574" Alt="0.0#AGL" Hdg="241.5750213623"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="36">
+		<!-- StandLocation;1.351453475654125;103.99143531918524;255.33737182617188;19.5-->
+		<SimObject Name="Jetway 1 GATE_F 36">
+			<Placement Lat="1.3510577973" Lon="103.9914209048" Alt="0.0#AGL" Hdg="255.2373748779"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 36">
+			<Placement Lat="1.3510952294" Lon="103.9915321333" Alt="0.0#AGL" Hdg="255.2373748779"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="37">
+		<!-- StandLocation;1.349894106388092;103.9910352230072;44.510986328125;23.0-->
+		<SimObject Name="Jetway 1 GATE_F 37">
+			<Placement Lat="1.3504434052" Lon="103.9911001475" Alt="0.0#AGL" Hdg="44.4109893799"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 37">
+			<Placement Lat="1.3503557571" Lon="103.9910562148" Alt="0.0#AGL" Hdg="44.4109893799"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="40">
+		<!-- StandLocation;1.3515560701489449;103.99034321308136;80.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 40">
+			<Placement Lat="1.3519319978" Lon="103.9905989356" Alt="0.0#AGL" Hdg="79.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 40">
+			<Placement Lat="1.3519167446" Lon="103.9905108048" Alt="0.0#AGL" Hdg="79.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="41">
+		<!-- StandLocation;1.3509223982691765;103.99050638079643;80.0484848022461;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 41">
+			<Placement Lat="1.3512777363" Lon="103.9907854109" Alt="0.0#AGL" Hdg="79.948487854"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 41">
+			<Placement Lat="1.3512558186" Lon="103.9906999707" Alt="0.0#AGL" Hdg="79.948487854"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="42">
+		<!-- StandLocation;1.35028637945652;103.99062037467957;80.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 42">
+			<Placement Lat="1.3506257735" Lon="103.9909884352" Alt="0.0#AGL" Hdg="79.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 42">
+			<Placement Lat="1.3505875178" Lon="103.9908867696" Alt="0.0#AGL" Hdg="79.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="50">
+		<!-- StandLocation;1.3528864458203316;103.98932754993439;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 50">
+			<Placement Lat="1.3527790712" Lon="103.9888447596" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 50">
+			<Placement Lat="1.352730332" Lon="103.9889553014" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="52">
+		<!-- StandLocation;1.3522115349769592;103.98904010653494;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 52">
+			<Placement Lat="1.3521041603" Lon="103.9885573164" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 52">
+			<Placement Lat="1.3520554212" Lon="103.9886678581" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="54">
+		<!-- StandLocation;1.351560428738594;103.98876518011092;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 54">
+			<Placement Lat="1.3514530541" Lon="103.9882823901" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 54">
+			<Placement Lat="1.3514043149" Lon="103.9883929318" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="56">
+		<!-- StandLocation;1.3509394973516464;103.98850724101064;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 56">
+			<Placement Lat="1.3508321227" Lon="103.9880244511" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 56">
+			<Placement Lat="1.3507833836" Lon="103.9881349928" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="58">
+		<!-- StandLocation;1.3503118604421616;103.98824036121368;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 58">
+			<Placement Lat="1.3502044858" Lon="103.9877575714" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 58">
+			<Placement Lat="1.3501557466" Lon="103.9878681131" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="59">
+		<!-- StandLocation;1.3497378677129743;103.98799672722816;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 59">
+			<Placement Lat="1.3496304931" Lon="103.9875139376" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 59">
+			<Placement Lat="1.3495817539" Lon="103.9876244792" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="GATE_F" AfcadParkingNumber="60">
+		<!-- StandLocation;1.3491947203874588;103.98777365684509;293.0;32.0-->
+		<SimObject Name="Jetway 1 GATE_F 60">
+			<Placement Lat="1.3490873457" Lon="103.9872908673" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="1"/>
+			</Model>
+		</SimObject>
+		<SimObject Name="Jetway 2 GATE_F 60">
+			<Placement Lat="1.3490386066" Lon="103.9874014089" Alt="0.0#AGL" Hdg="292.9000030518"/>
+			<Model SimTitle="WSSS_ZT_JETWAY">
+				<Jetway InitialState="70;50;50;0" MultiIndex="2"/>
+			</Model>
+		</SimObject>
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="PARKING" AfcadParkingNumber="4">
+		<!-- StandLocation;1.350399702787399;103.97253781557082;209.01965332031253;4.099999904632568-->
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="PARKING" AfcadParkingNumber="5">
+		<!-- StandLocation;1.351318359375;103.97238582372665;322.6369323730469;4.099999904632568-->
+	</Stand>
+	<Stand AfcadICAO="WSSS" AfcadGateName="PARKING" AfcadParkingNumber="612">
+		<!-- StandLocation;1.3559411466121674;103.99132937192915;204.31900024414062;5.0-->
+	</Stand>
+</SODE>

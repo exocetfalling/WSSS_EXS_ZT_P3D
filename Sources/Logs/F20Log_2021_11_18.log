@@ -1,0 +1,40 @@
+﻿2021-11-18 12:32:21 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | **F20 ADE STARTED**
+2021-11-18 12:32:22 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Target Version: F20
+2021-11-18 12:32:22 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Check Multiple Instance: OK
+2021-11-18 12:32:22 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Program Args
+2021-11-18 12:32:23 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | Version From: Steam
+2021-11-18 12:32:23 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Configs Path: C:\Users\toffe\AppData\Roaming\Microsoft Flight Simulator
+2021-11-18 12:32:23 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Content Path: D:\Microsoft Flight Simulator\Packages
+2021-11-18 12:32:23 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | SDK Path: D:\MSFS SDK\
+2021-11-18 12:32:23 | Info | ScruffyDuck.AirportDesignEditor.MainForm.LogVersions | 1 | ADE v20.19.7780  Tuesday, 20 April 2021
+2021-11-18 12:32:26 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | ProKey Active
+2021-11-18 12:32:30 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | Projects Root Folder: D:\FS Design Tools\ADE 2020 Alpha 19\F20
+2021-11-18 12:32:30 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Configs Path: C:\Users\toffe\AppData\Roaming\Microsoft Flight Simulator
+2021-11-18 12:32:30 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Content Path: D:\Microsoft Flight Simulator\Packages
+2021-11-18 12:32:30 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | SDK Path: D:\MSFS SDK\
+2021-11-18 12:32:34 | Info | ScruffyDuck.AirportDesignEditor.MainForm.OnMainFormFormClosing | 1 | **F20 ADE CLOSING**
+2021-11-18 13:19:41 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | **F20 ADE STARTED**
+2021-11-18 13:19:42 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Target Version: F20
+2021-11-18 13:19:42 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Check Multiple Instance: OK
+2021-11-18 13:19:42 | Info | ScruffyDuck.AirportDesignEditor.Program.Main | 1 | Program Args
+2021-11-18 13:19:46 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | Version From: Steam
+2021-11-18 13:19:46 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Configs Path: C:\Users\toffe\AppData\Roaming\Microsoft Flight Simulator
+2021-11-18 13:19:46 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Content Path: D:\Microsoft Flight Simulator\Packages
+2021-11-18 13:19:46 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | SDK Path: D:\MSFS SDK\
+2021-11-18 13:19:46 | Info | ScruffyDuck.AirportDesignEditor.MainForm.LogVersions | 1 | ADE v20.19.7780  Tuesday, 20 April 2021
+2021-11-18 13:19:54 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | ProKey Active
+2021-11-18 13:20:11 | Info | ScruffyDuck.AirportDesignEditor.MainForm.OnMainFormFormClosing | 1 | **F20 ADE CLOSING**
+2021-11-18 13:20:11 | Info | ScruffyDuck.AirportDesignEditor.MainForm..ctor | 1 | Projects Root Folder: D:\FS Design Tools\ADE 2020 Alpha 19\F20
+2021-11-18 13:20:11 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Configs Path: C:\Users\toffe\AppData\Roaming\Microsoft Flight Simulator
+2021-11-18 13:20:11 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | Content Path: D:\Microsoft Flight Simulator\Packages
+2021-11-18 13:20:11 | Info | ScruffyDuck.AirportDesignEditor.Helpers.U.LoadCurrentF20Paths | 1 | SDK Path: D:\MSFS SDK\
+2021-11-18 13:20:11 | Error | ScruffyDuck.AirportDesignEditor.Program.StartAde | 1 | Early Closing
+2021-11-18 13:20:11 | Exception | ScruffyDuck.AirportDesignEditor.Program.StartAde | 1 | 646f6cfb-8c15-48e7-aaa6-6f5923a09291 | System.ObjectDisposedException | System.Windows.Forms.Control.CreateHandle | Cannot access a disposed object.
+Object name: 'MainForm'. |    at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Form.CreateHandle()
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at ScruffyDuck.AirportDesignEditor.Program.StartAde(String file)
